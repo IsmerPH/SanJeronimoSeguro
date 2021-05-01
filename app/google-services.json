@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377661547611",
+    "project_id": "sanjeronimoseguro-607d2",
+    "storage_bucket": "sanjeronimoseguro-607d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377661547611:android:f7a2f771ffcb6969a1cb7e",
+        "android_client_info": {
+          "package_name": "com.ismr.sanjeronimoseguro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377661547611-vk67c0njupv3eekelpfrokka2qdq7np4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismr.sanjeronimoseguro",
+            "certificate_hash": "fdc01ea301faaa82612f0d0e9e85d93b6d368742"
+          }
+        },
+        {
+          "client_id": "377661547611-7l47shg5769blgfq7h12mg3rq3g5vpm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpal2f8pUTxfwYDxDDZvINMM0qMMZRzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377661547611-7l47shg5769blgfq7h12mg3rq3g5vpm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
