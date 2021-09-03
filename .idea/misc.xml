@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/action_bar_toollbar.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_buscar_celular.xml" value="0.2375" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_crear_cuenta.xml" value="0.33" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_login.xml" value="0.10507246376811594" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_login_admin.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_map_admin.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_map_client.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_menu_inicio.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_registro1.xml" value="0.33" />
+        <entry key="..\:/Users/Ismer/AndroidStudioProjects/SanJeronimoSeguro/app/src/main/res/layout/activity_registro_datos.xml" value="0.17603850050658562" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (24)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

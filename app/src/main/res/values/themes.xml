@@ -2,7 +2,6 @@
     <!-- Base application theme. -->
     <style name="Theme.SanJeronimoSeguro" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
-
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryVariant">@color/colorPrimary</item>
         <item name="colorOnPrimary">@color/white</item>

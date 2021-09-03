@@ -8,6 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="verde">#00DD80</color>
+    <color name="verdeoscuro">#00BC66</color>
+    <color name="plomo">#EDEDED</color>
     <color name="colorPrimary">#0038B5</color>
     <color name="Azuloscuro">#002793</color>
 </resources>
